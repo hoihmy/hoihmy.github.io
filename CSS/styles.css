@@ -1,3 +1,12 @@
+@import "loader1.css";
+@import "loader2.css";
+@import "loader3.css";
+@import "loader4.css";
+@import "loader5.css";
+@import "loader6.css";
+@import "loader7.css";
+@import "loader8.css";
+
 body,
 div {
     background: aqua;
